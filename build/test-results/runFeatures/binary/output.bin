@@ -1,0 +1,20 @@
+metodo multiplicar
+metodo sumar
+Feature: RedirectNewFile
+=====================
+new file generated
+=====================
+
+
+  @sanity
+Y  Scenario: Testing new path             [90m# redirectFileStepDefintions.feature:4[0m
+q    [32mGiven [0m[32mTesitng path to generate filed[0m [90m# CommonStepdef.tesitngPathToGenerateFiled()[0m
+Feature: testing
+=====================
+Testing cucumber java
+=====================
+
+  @bvt
+Y  Scenario: first scenario                         [90m# userFeatureFiles.feature:4[0m
+ƒ    [32mGiven [0m[32mfirst introduction to cucumber with java[0m [90m# GeneralSteps.firstIntroductionToCucumberWithJava()[0m
+metodo restar

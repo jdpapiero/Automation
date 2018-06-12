@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.umssdiplo.automationv01.CucumberRunner" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-06-09T00:42:08" hostname="PIERO-ASUS" time="0.18">
+  <properties/>
+  <testcase name="feature[0](RedirectNewFile)" classname="org.umssdiplo.automationv01.CucumberRunner" time="0.18"/>
+  <testcase name="feature[1](testing)" classname="org.umssdiplo.automationv01.CucumberRunner" time="0.0"/>
+  <system-out><![CDATA[Feature: RedirectNewFile
+=====================
+new file generated
+=====================
+
+  @sanity
+  Scenario: Testing new path             ?[90m# redirectFileStepDefintions.feature:4?[0m
+    ?[32mGiven ?[0m?[32mTesitng path to generate filed?[0m ?[90m# CommonStepdef.tesitngPathToGenerateFiled()?[0m
+Feature: testing
+=====================
+Testing cucumber java
+=====================
+
+  @bvt
+  Scenario: first scenario                         ?[90m# userFeatureFiles.feature:4?[0m
+    ?[32mGiven ?[0m?[32mfirst introduction to cucumber with java?[0m ?[90m# GeneralSteps.firstIntroductionToCucumberWithJava()?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
